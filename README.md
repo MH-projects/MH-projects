@@ -2,6 +2,18 @@
   <h1 align="center">Hola, soy Manuel Hidalgo 👋</h1>
 </div>
 
+- 📲 Android Developer
+- 🌱 I’m currently learning Flutter...
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/MH-projects">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MH-projects&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MH-projects&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 <!--
 **MH-projects/MH-projects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
